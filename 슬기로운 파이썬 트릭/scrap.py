@@ -2,7 +2,6 @@
 # written by wonbin kim
 # 2023.08.30. 14:00 Version
 import argparse
-import time
 import traceback
 
 class Scrapper_Patent(
@@ -75,8 +74,6 @@ class Scrapper_Patent(
             pub_reg = pub_reg,
         )
     
-    
-        
 
 if __name__ == '__main__':
     
